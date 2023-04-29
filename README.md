@@ -1,6 +1,6 @@
 # Lagrange Interpolation
 
-<img src="https://raw.githubusercontent.com/stevens97/Lagrange_Interpolation/main/Sample.jpg](https://raw.githubusercontent.com/stevens97/Lagrange_Interpolation/main/Sample.png" width="25%" height="25%">
+<img src="https://raw.githubusercontent.com/stevens97/Lagrange_Interpolation/main/Sample.png" width="25%" height="25%">
 
 This Jupyter Notebook provides a tutorial of how to perform Lagrange Interpolation for a given function, using Python.
 The notebook also show's how to use Neville's algorithm to calculate Lagrange Polynomials quickly.
